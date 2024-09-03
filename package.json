@@ -1,0 +1,30 @@
+{
+  "name": "matteo-theme",
+  "displayName": "Matteo's Dark Theme",
+  "description": "A complete dark theme that's easy on the eyes.",
+  "version": "1.0.0",
+  "publisher": "mapersiani",
+  "repository": {
+    "type": "git",
+    "url": ""},
+    "keywords": [
+      "theme",
+      "dark",
+      "matteo"
+    ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "M Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/M Dark-color-theme.json"
+      }
+    ]
+  }
+}
