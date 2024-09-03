@@ -1,16 +1,20 @@
-# matteo-theme README
+# Matteo's Theme
 
-## Working with Markdown
+A modern and customizable theme for [VSCode](https://code.visualstudio.com/download), designed to enhance your editor. This theme is perfect for users who want a sleek, comfortable design. I use non-vibrant colors to avoid eye strain, allowing you to work longer.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Customizable**: There are a couple different themes to choose from with more on the way!
+- **Comfortable**: Soft colors that are easy on the eyes!
 
-## For more information
+## Demo
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Check out how the themes look in action:
 
-**Enjoy!**
+![Homepage](https://github.com/user-attachments/assets/5c1c7cb3-f0e9-4d9c-a41b-61b3874e37f7)
+
+![Editor](https://github.com/user-attachments/assets/c8dc5a2e-0d00-490f-8cc3-e0f97ecc49da)
+
+## Installation
+
+You can install the themes directly from the VSCode extensions page, [here](https://marketplace.visualstudio.com/items?itemName=mapersiani.matteo-theme).
