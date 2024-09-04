@@ -1,8 +1,8 @@
 {
   "name": "matteo-theme",
   "displayName": "Matteo's Dark Theme",
-  "description": "A complete dark theme that's easy on the eyes.",
-  "version": "1.1.0",
+  "description": "A set of themes that are easy on the eyes.",
+  "version": "1.5.0",
   "publisher": "mapersiani",
   "repository": {
     "type": "git",
@@ -10,6 +10,7 @@
     "keywords": [
       "theme",
       "dark",
+      "light",
       "matteo"
     ],
   "engines": {
@@ -20,6 +21,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "M Light",
+        "uiTheme": "vs",
+        "path": "./themes/M Light-color-theme.json"
+      },
       {
         "label": "M Dark",
         "uiTheme": "vs-dark",
